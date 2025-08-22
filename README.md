@@ -5,4 +5,4 @@
 [![Termux library releases at Jitpack](https://jitpack.io/v/termux/termux-app.svg)](https://jitpack.io/#termux/termux-app)
 
 
-#Not yet, not finished/ don't set up it
+# Not yet, not finished/ don't set up it 
